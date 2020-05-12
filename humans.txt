@@ -4,7 +4,7 @@ Hi all welcome to master branch
 # TEAM
 New branch
     <name> Conor  <twitter>
-
+Adding notes on stash
 # THANKS
 
     Conor
